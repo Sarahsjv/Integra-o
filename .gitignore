@@ -1,0 +1,9 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados SQLite
+biblioteca.db
+
+# Ambiente virtual (se estiver usando)
+venv/
